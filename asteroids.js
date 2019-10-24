@@ -1,3 +1,17 @@
+// Game needs new levels
+// bullets should fly faster
+    // maybe enable auto-fire
+        // maybe auto-fire comes from touching a bonus
+// sound effects
+// ship shape more narrow at the nose
+// extra life awarded at certain points threshold (1000?)
+// ship doesn't die automatically when respawned
+    // wait until no asteroids in certain radius of ship when respawnning
+
+
+
+
+
 let canvas;
 let ctx;
 let canvasWidth = 1400;
